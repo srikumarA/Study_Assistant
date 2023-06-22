@@ -1,1 +1,2 @@
 # Study_Assistant
+Study Assistant is your personalized study buddy with an inbuilt Pomodoro timer, which helps you to schedule your work and keep track of your progress; posture corrector, which gives a prompt if your posture is not ideal; and also reminds you to take frequent water breaks to keep you hydrated. Whether you are a parent worried about your child’s study habits or a person who needs a nudge to get the ball rolling, Study Assistant is the right fit for you.
